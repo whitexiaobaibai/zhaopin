@@ -1,0 +1,1147 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta content="爬虫工程师_全职_秋季双选会_校园招聘应届生全职招聘实习兼职招聘" name="keywords">
+    <meta content="[秋季双选会最新校园招聘信息]1.负责大数据部门的数据采集与爬取、解析处理、入库及备份等数据日常工作； 2.参与实现分布式爬虫模块服务架构和数据存储架构的设计和研发； 3.参与编写互联网内容的爬虫，制定反爬虫策略。 任职要求： 1..." name="description">
+    <link rel="shortcut icon" href="//cimg.zhaopin.cn/img/icoLogo.ico " type="image/x-icon" />
+    <title>爬虫工程师_全职_秋季双选会2018校园招聘最新信息</title>
+    <!--#include virtual="/common/cssJs.shtml" -->
+    <!-- 通用样式引用 -->
+    <link rel="stylesheet" href="//cimg.zhaopin.cn/css/base.css">
+    <link rel="stylesheet" href="//cimg.zhaopin.cn/css/common.css">
+    <link rel="stylesheet" href="//cimg.zhaopin.cn/css/btn.css">
+    <link rel="stylesheet" href="//cimg.zhaopin.cn/css/icon.css">
+    <link rel="stylesheet" href="//cimg.zhaopin.cn/css/pop.css">
+    <!-- //通用样式引用 -->
+    
+    <script type="text/javascript">
+
+
+        var requireWebUniqueIdentity = {
+            id: 11,
+            name: "jobDetail",
+            explain: "职位详情页"
+        }
+    </script>
+
+    <script type="text/javascript" src="//cimg.zhaopin.cn/js/version.js"></script>
+    <!-- 页面样式引用 -->
+    <script type="text/javascript" src="//cimg.zhaopin.cn/js/quoteCss.js"></script>
+    <!-- 页面样式引用 -->
+    
+    <link type="text/css" href="/Content/css/module/personal_center.css" rel="stylesheet" />
+
+    <!-- baseJs -->
+    <script src="//cimg.zhaopin.cn/js/base/base.js" type="text/javascript"></script>
+    <script src="//cimg.zhaopin.cn/js/base/browser.js" type="text/javascript"></script>
+    <script src="//cimg.zhaopin.cn/js/base/object.js" type="text/javascript"></script>
+    <script src="//cimg.zhaopin.cn/js/base/array.js" type="text/javascript"></script>
+    <script src="//cimg.zhaopin.cn/js/base/string.js" type="text/javascript"></script>
+    <script src="//cimg.zhaopin.cn/js/base/id.js" type="text/javascript"></script>
+    <!-- //baseJs -->
+    <!-- 通用js -->
+    <script src="//cimg.zhaopin.cn/js/jquery1.6.js" type="text/javascript"></script>
+    <script src="//cimg.zhaopin.cn/js/lib/jquery.cookies.2.2.0.min.js" type="text/javascript"></script>
+    <script src="//cimg.zhaopin.cn/js/lib/json2.js" type="text/javascript"></script>
+    <script src="//cimg.zhaopin.cn/js/require.js" type="text/javascript"></script>
+    <script src="//cimg.zhaopin.cn/js/main.js" type="text/javascript"></script>
+    <script src="//cimg.zhaopin.cn/js/lib/zhugeSDK.js" type="text/javascript"></script>
+    <!-- //通用js -->
+    <!-- //前端js -->
+</head>
+<body class="cBg cBgImg">
+    <script type="text/javascript">
+    $(function () {
+        //首页根据公告调整body离顶端的高度
+        if ($('.tip-auto').length > 0 && $('.tip-auto').next().offset().top < $('.tip-auto').height()) {
+            $('.tip-auto').next().css('margin-top', '32px');
+        }
+    })
+</script>
+
+
+    <div class="cRecruiterIndex_Wrap cRecruiterWrap">
+        
+        <div class="header">
+            <!--	* 顶部菜单 开始 *		-->
+            <div class="headTop">
+                <div class="w980 top">
+                    <a href="//www.zhaopin.com" target="_blank" class="l c9">智联首页</a>
+                    <ul class="clearfix topR fr">
+                        <!--	* 登录后显示下面隐藏的li，登录和注册li隐藏  *	-->
+                        <li class="login" style="display: none">
+                                <span class="fl c9 pr10"></span>
+
+                            <a href="/LoginManager/Logout" rel="nofollow">
+                                退出
+                            </a>
+                        </li>
+                        <li><a href="/LoginManager/Login">登录</a></li>
+                        <li><a href="/LoginManager/register?backurl=/" rel="nofollow" id="hreftopreg">注册</a> </li>
+                        <li class="hasMenu">
+                            <a href="/IndexForLogin" rel="nofollow">
+                                <span class="dib pr5">我的校园</span><span class="cIcon cIcon_DownArrowIndex"></span>
+                            </a>
+                            <div class="subMenu myCampus pb5">
+                                <a href="/Home/Resumes/UserResume" rel="nofollow">简历管理</a>
+                                <a href="/Home/myapply/recordlist" rel="nofollow">投递记录</a>
+                                <a href="/Home/Presentation/UserPresentation" rel="nofollow">我的宣讲会</a>
+                                <a href="/Home/AttentionCompany/index" rel="nofollow">关注的公司</a>
+                                <a href="/Home/CollectJob/index" rel="nofollow">收藏的职位</a>
+                                <a href="/LoginManager/UpdatePassword" rel="nofollow">账号管理</a>
+                                <a href="/LoginManager/Invitation" rel="nofollow">邀请好友</a>
+                            </div>
+                        </li>
+                        <li class="hasMenu">
+                            <a href="/LoginManager/Login" rel="nofollow">
+                                <span class="dib pr5">关注</span><span class="cIcon cIcon_DownArrowIndex"></span>
+                            </a>
+                            <div class="subMenu attention subMenuq">
+                                <div>
+                                    <span class="whiteLine"></span>
+                                </div>
+                                <div class="fl codeBox">
+                                    <p>
+                                        智联校园订阅号：<span class="orangeFont">zhaopincdc</span>
+                                    </p>
+                                    <img src="//cimg.zhaopin.cn/img/qrcode/WXSubNo.jpg" width="96" height="96" alt="" />
+                                    <p>
+                                        最懂大学生的聚集地
+                                    </p>
+                                </div>
+                                <div class="fl line mt10">
+                                </div>
+                                <div class="fl codeBox">
+                                    <p>
+                                        智联校园服务号：<span class="orangeFont">zl--xy</span>
+                                    </p>
+                                    <img src="//cimg.zhaopin.cn/img/qrcode/WXServiceNo.jpg" width="96" height="96" alt="" />
+                                    <p>
+                                        获取内推岗位，求职大礼包
+                                    </p>
+                                </div>
+                                <div class="fl line mt10"></div>
+                                <div class="fl codeBox">
+                                    <p>智联校园移动端</p>
+                                    <img src="//cimg.zhaopin.cn/img/m_resumeClient.png" width="96" height="96" alt="" />
+                                    <p>扫一扫，找到好工作</p>
+                                </div>
+                            </div>
+                        </li>
+                        <!--	* 登录后显示下面隐藏的li，如果有通知显示红点cIcon_redRound,没有则不显示  *	-->
+                        <li class="notice" style="display:none;">
+                            <a href="//xiaoyuan.zhaopin.com/Message/MsgList/Index?type=HeadNotify" rel="nofollow">
+                                <span class="fl">
+                                    通知
+                                </span><span class="cIcon fl notictips"></span>
+                            </a>
+                        </li>
+                        <li class="last"><a href="javascript:void(0)" rel="nofollow" class="collectBtn">收藏</a> </li>
+                    </ul>
+                </div>
+            </div>
+            <!--	* 顶部菜单 结束 *		-->
+            <!--	* Logo部分 开始 *		-->
+            <div class="headLogo w980 clearfix ">
+                <div class="fl logo">
+                    <!--	**此a放logo链接**	-->
+                    <a href="/"></a>
+                </div>
+                <img src="//cimg.zhaopin.cn/img/indexNewLogoFont.jpg" width="200" height="20"
+                     alt="" class="fl mt20 ml10 logofont" />
+                <img src="//cimg.zhaopin.cn/img/indexNewLogoPic.jpg" width="371" height="28" alt="" class="mt10 fr" />
+            </div>
+            <!--	* Logo部分 结束 *		-->
+            <!--	* 导航 开始 *		-->
+            <div class="navBox">
+                <ul class="nav w980">
+                    <li id="f_0">
+                            <a href="/">首页</a>
+                    </li>
+                    <li id="f_1"><a href="/FindFullTime/FullTimeSearch/Index">找全职</a> </li>
+                    <li id="f_2"><a href="/FindPractice/PracticeSearch/Index">找实习</a> </li>
+                    <li id="f_4"><a href="/FindFullTime/Presentation/Index">企业宣讲会</a> </li>
+                    <li id="f_9"><a href="/overseaRecruit">海外招聘</a> </li>
+                    <li id="f_10"><a href="/overseaStudy">海外游学</a> </li>
+                    
+                    
+                    <li id="f_8">
+                        <a href="/campusservice">校园服务</a>
+                    </li>
+                </ul>
+            </div>
+            <!--	* 导航 结束 *		-->
+        </div>
+
+        <!-- *顶部导航栏ie6压住select、flash* -->
+        
+        <!-- * 页面主体 * -->
+        <!-- * 页面主体 * -->
+        <div class="cWrap">
+            <div class="cGuild" style="display: none;">
+    <input type="hidden" id="hidden_jobuser" bid="0" cid="0" companyid="CC000116133" subcompanyid="CC000116133D90000547000" jobid="CC000116133J90003897000" ctid="765" jobnature="2" view_ref="" />
+    <a href="/">CDC</a> <span class="c369">&nbsp;&gt;&nbsp;</span> <a href="/" style="display: none;">
+        找工作
+    </a> <span class="c369">&nbsp;&gt;&nbsp;</span> <span style="display: none;" class="c9">
+        职位信息：爬虫工程师
+    </span>
+</div>
+<div style="width: 1000px;height: 60px;background-color: #F3F4F6;color: #FE8C50;margin-bottom: -15px;">
+    <img src="//cimg.zhaopin.cn/img/emark.png" style="float:left;margin: 17px 10px 0 15px;">
+    <p style="float: left;width: 930px;line-height: 20px;margin-top: 10px;">
+        智联提示每一位求职者：若用人单位存在提供虚假招聘信息、发布虚假招聘广告，以担保或者其他任何名义向求职者收取财物（如办卡费、押金、培训费），扣押或以保管为名索要身份证、毕业证及其他证件等行为，均属违法，请您提高警惕并注意保护个人信息。
+    </p>
+</div>
+
+<div class="cMain" id="divMain" uid="0" jobid="CC000116133J90003897000" jobnature="2">
+    <div class="cMainBgNew">
+        <div class="cJobDetail_container clearfix">
+            <!-- * 左侧内容 * -->
+            <div class="cLeft l">
+
+                <div class="cJobDetailInforWrap">
+                    <h1 id="JobName" class="cJobDetailInforTitle">
+                        爬虫工程师 <span class="cIcon cIcon_zl ml10">
+                        </span>
+                    </h1>
+                    <ul class="cJobDetailInforTopWrap clearfix c3">
+                        <li class="cJobDetailTit marb">来&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自：</li>
+                        <li id="jobCompany" class="cJobDetailInforWd1 marb">
+                            <a target="_blank" href="/subcompany/CC000116133D90000547000">秋季双选会—深圳市木槿科技有限公司</a>
+                        </li>
+                        <li class="cJobDetailTit">公司行业：</li>
+                        <li class="cJobDetailInforWd2" title="专业服务(咨询/财会/法律等),互联网/电子商务">专业服务(咨询/财会...</li>
+                        <li class="cJobDetailTit">公司规模：</li>
+                        <li class="cJobDetailInforWd2">10000人以上</li>
+                        <li class="cJobDetailTit">公司类型：</li>
+                        <li>国企</li>
+                    </ul>
+                    <ul class="cJobDetailInforBotWrap clearfix c3">
+                        <li class="cJobDetailTit marb">工作地点：</li>
+                        <li id="currentJobCity" class="cJobDetailInforWd2 marb" jct="深圳" title='深圳'>
+                            深圳
+                            
+                        </li>
+                        <li class="cJobDetailTit marb">职位类别：</li>
+                        <li class="cJobDetailInforWd2 marb">数据分析师</li>
+                        <li class="cJobDetailTit marb">招聘人数：</li>
+                        <li class="cJobDetailInforWd2 marb">10人</li>
+                        <li class="cJobDetailTit marb">发布时间：</li>
+                        <li class="cJobDetailInforWd2 marb" id="liJobPublishDate">2017-10-02</li>
+                    </ul>
+                        <div class="cJobDetailInforBtn">
+ <a jobstatus="4" href="javascript:void(0)" class="cBtn cBtn_green j_Deliverypop" jobsource="1">
+                                <span><font><i>立即投递</i></font></span>
+                            </a>                         </div>
+                </div>
+                <!-- * 切换版块 * -->
+                <!--#include virtual="/job/jobDetail_tabSwitch.shtml" -->
+                <div class="cJobDetail_tabSwitch mt30">
+                    <!-- *切换导航栏* -->
+                    <div class="cJobDetail_tabSwitch_nav">
+                        <ul class="clearfix j_cJobDetail_tabSwitch_nav">
+                            <li class="current"><a class="j_cJob_Detail_btn" href="javascript:void(0)">职位描述</a></li>
+                            <li>
+                                <a showtype="2" class="j_cJobDetail_companyIntro_btn" href="javascript:void(0)">
+                                    公司介绍
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="cJobDetail_tabSwitch_content j_cJobDetail_tabSwitch_content">
+                        <!-- * 职位描述 * -->
+                        <div class="j_cJob_Detail">
+                            <div class="cJob_Detail f14">
+                                <p class="mt20">1.负责大数据部门的数据采集与爬取、解析处理、入库及备份等数据日常工作； 2.参与实现分布式爬虫模块服务架构和数据存储架构的设计和研发； 3.参与编写互联网内容的爬虫，制定反爬虫策略。 任职要求： 1.计算机相关专业本科以上学历; 2.熟悉TCP/IP、HTTP/HTTPS协议； 3.熟悉XML/HTML、XPATH、CSS、JavaScript； 2.有抓包工具使用经验优先； 4.有爬虫框架使用经验优先(如scrapy、pyspider等)； 5.有网络爬虫、信息抽取、文本分类相关项目经验者优先； 6.良好的沟通能力和团队精神，具备逻辑思维能力强，态度认真积极，责任心强，具备快速学习能力。 福利待遇： 1.实行大小周，弹性工作，平行管理，气氛活跃； 2.假期福利：除法定的节假日之外，还可享有年假，婚假，丧假，生育假； 3.社保与公积金：公司依法为员工缴纳社会保险和住房公积金； 4.提供免费茶点，寿星有神秘的生日礼物，公司提供团队建设费用； 5.公司提供丰富的员工活动，除运动、唱K、聚餐等外，还可根据员工建议酌情组织。 工作地址 深圳 - 福田区 - 竹子林 - 竹子林深南中路求是大厦西座25层2506</p>
+                                    <div class="clearfix cJob_Delivery mt24">
+                                        <div class="r pt5 c9 f12">
+                                            <a title="收藏该职位" href="javascript:void(0)" data-value="0" class="sl j_collectJob">收藏该职位</a>&nbsp;丨&nbsp;
+                                            <a title="告诉小伙伴" href="javascript:void(0)" class="sl j_shareWB">告诉小伙伴</a> 
+                                            <a title="举报" href="javascript:void(0)" class="sl" style="display: none;">举报</a>
+                                        </div>
+ <a jobstatus="4" href="javascript:void(0)" class="cBtn_green cBtn j_Deliverypop" jobsource="1" style="margin-right: 30px;">
+                                            <span><font><i>立即投递</i></font></span>
+                                        </a>                                     </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- * //切换版块 * -->
+                <div class="clearfix mt20 titleBox j_titleBox" style="display: none;">
+                    <div class="l facePhoto">
+                        <img src="//cimg.zhaopin.cn/img/temp/facephoto.png" alt="头像照片" width="48" height="48" />
+                    </div>
+                    <h4 class="r caption">
+                        <p>
+                                <a userid="0" href="###" class="r j_amend_caption">修改</a>
+                            Hi，我是该职位的发布者&nbsp;<a href="###" class="fullName por j_fullName">
+                                <span class="hintTips hintTipsEnd j_hintTips2" style="display: none">
+                                    <i>
+                                        <b>
+                                            <span>
+                                                <em class="cIcon_tagOrange">私信他</em>
+                                            </span>
+                                        </b>
+                                    </i>
+                                </span>
+                            </a>&nbsp;，<span id="job_Tips"></span>
+                        </p>
+                    </h4>
+                </div>
+                <div class="topicWrap mb30 j_topicWrap" style="display: none;">
+                    <div class="clearfix mt20 topic_caption">
+    <h4 class="l f12 fw400">讨论区<b class="cLightgreen">(98)</b>：</h4>
+    <div class="r topic_tagBox">
+        <a href="###" class="cIcon_tagBlue">全部<b>(25)</b></a>
+        <a href="###" class="cIcon_tagBlue">薪资<b>(15)</b></a>
+        <a href="###" class="cIcon_tagBlue">五险一金<b>(25)</b></a>
+        <a href="###" class="cIcon_tagBlue">福利待遇<b>(56)</b></a>
+        <a href="###" class="cIcon_tagBlue">笔经<b>(8)</b></a>
+        <a href="###" class="cIcon_tagBlue">面经<b>(10)</b></a>
+        <a href="###" class="cIcon_tagBlue">其他<b>(15)</b></a>
+        <a href="###" class="cIcon_tagBlue">笔/面试通知<b>(56)</b></a>
+    </div>
+</div>
+<!--List-->
+<div class="topic_main">
+    <div class="topic_list">
+        <ul class="clearfix">
+            <li class="lh31 content"><strong>话题</strong></li>
+            <li class="lh31 replySum"><strong>回复</strong></li>
+            <li class="lh31 updateTime"><strong>更新时间</strong></li>
+        </ul>
+    </div>
+    <div style="text-align: center; padding: 30px 0 60px 0;">
+        <p>
+            还没有相关的话题讨论</p>
+        <a href="###">发起一个新话题</a>
+    </div>
+    <div style="display: none">
+        <div class="topic_list">
+            <ul class="clearfix j_ul">
+                <li class="lh41 content"><a href="javascript:void(0);" class="onlyTop"><span class="cIcon cIcon_top">
+                </span></a><a href="###" title="[薪资]" target="_blank">[薪资]</a>请问下公司的最近几年的薪资待遇怎样？</li>
+                <li class="lh41 replySum"><a class="j_replySum" href="###">10</a></li>
+                <li class="lh41 updateTime">昨天&nbsp;19:50</li>
+            </ul>
+            <div class="topic_replyTopicBox topic_replyTopicBox1 j_replyTopicBox" style="display: none">
+                <div class="topic_arrow">
+                    <em class="T_line_c">◆</em><span class="T_bg_c">◆</span></div>
+                <div class="j_retopicBox">
+                </div>
+            </div>
+        </div>
+        <div class="topic_list bcf8 j_topic_list">
+            <ul class="clearfix j_ul">
+                <li class="lh41 content"><a href="###" title="[笔/面试通知]" target="_blank">[笔/面试通知]</a>请问下这个公司的办公地址现在在哪里？</li>
+                <li class="lh41 replySum"><a class="j_replySum" href="###">15</a></li>
+                <li class="lh41 updateTime">2013.11.28&nbsp;19:50</li>
+            </ul>
+            <div class="topic_replyTopicBox topic_replyTopicBox1 j_replyTopicBox" style="display: none">
+                <div class="topic_arrow">
+                    <em class="T_line_c">◆</em><span class="T_bg_c">◆</span></div>
+                <div class="j_retopicBox">
+                </div>
+            </div>
+        </div>
+        <div class="topic_list">
+            <ul class="clearfix j_ul">
+                <li class="lh41 content"><a href="###" title="[薪资]" target="_blank">[薪资]</a>请问下公司的最近几年的薪资待遇怎样？</li>
+                <li class="lh41 replySum"><a class="j_replySum" class="" href="###">15</a></li>
+                <li class="lh41 updateTime">昨天&nbsp;19:50</li>
+            </ul>
+            <div class="topic_replyTopicBox topic_replyTopicBox1 j_replyTopicBox" style="display: none">
+                <div class="topic_arrow">
+                    <em class="T_line_c">◆</em><span class="T_bg_c">◆</span></div>
+                <div class="j_retopicBox">
+                </div>
+            </div>
+        </div>
+        <div class="topic_list bcf8">
+            <ul class="clearfix j_ul">
+                <li class="lh41 content"><a href="###" title="[薪资]" target="_blank">[薪资]</a>请问下这个公司的办公地址现在在哪里？</li>
+                <li class="lh41 replySum"><a class="j_replySum" href="###">9</a></li>
+                <li class="lh41 updateTime">2013.11.25&nbsp;19:50</li>
+            </ul>
+            <div class="topic_replyTopicBox topic_replyTopicBox1 j_replyTopicBox" style="display: none">
+                <div class="topic_arrow">
+                    <em class="T_line_c">◆</em><span class="T_bg_c">◆</span></div>
+                <div class="j_retopicBox">
+                </div>
+            </div>
+        </div>
+        <div class="topic_list">
+            <ul class="clearfix j_ul">
+                <li class="lh41 content"><a href="###" title="[福利待遇]" target="_blank">[福利待遇]</a>请问下这个公司的办公地址现在在哪里？</li>
+                <li class="lh41 replySum"><a class="j_replySum" href="###">10</a></li>
+                <li class="lh41 updateTime">2013.11.29&nbsp;19:50</li>
+            </ul>
+            <div class="topic_replyTopicBox topic_replyTopicBox1 j_replyTopicBox" style="display: none">
+                <div class="topic_arrow">
+                    <em class="T_line_c">◆</em><span class="T_bg_c">◆</span></div>
+                <div class="j_retopicBox">
+                </div>
+            </div>
+        </div>
+        <div class="topic_list bcf8">
+            <ul class="clearfix j_ul">
+                <li class="lh41 content"><a href="###" title="[offer发放]" target="_blank">[offer发放]</a>请问下这个公司的办公地址现在在哪里？<span
+                    class="cIcon cIcon_HR_repliedTopics"></span></li>
+                <li class="lh41 replySum"><a class="j_replySum" href="###">65</a></li>
+                <li class="lh41 updateTime">2013.11.28&nbsp;19:50</li>
+            </ul>
+            <div class="topic_replyTopicBox topic_replyTopicBox1 j_replyTopicBox" style="display: none">
+                <div class="topic_arrow">
+                    <em class="T_line_c">◆</em><span class="T_bg_c">◆</span></div>
+                <div class="j_retopicBox">
+                </div>
+            </div>
+        </div>
+        <div class="topic_list">
+            <ul class="clearfix j_ul">
+                <li class="lh41 content"><a href="###" title="[薪资]" target="_blank">[薪资]</a>请问下公司的最近几年的薪资待遇怎样？</li>
+                <li class="lh41 replySum"><a class="j_replySum" href="###">20</a></li>
+                <li class="lh41 updateTime">刚刚</li>
+            </ul>
+            <div class="topic_replyTopicBox topic_replyTopicBox1 j_replyTopicBox" style="display: none">
+                <div class="topic_arrow">
+                    <em class="T_line_c">◆</em><span class="T_bg_c">◆</span></div>
+                <div class="j_retopicBox">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+	<!-- * loading * -->
+<div class="j_tabSwitch_loading" style="display: none">
+    <div class="tac" style="padding-top: 120px;">
+        <img class="vam mr5" src="//cimg.zhaopin.cn/img/loading/loading.gif" width="16" height="16" alt="loading" /><span
+                                                                                                       class="dib vam f14">努力中...</span>
+    </div>
+</div>
+<!--ListEnd-->
+<!--btn-->
+<div class="topic_btn dn">
+    <a class="j_newTopics_btn" href="/company/companyDiscuss.shtml"><span class="cIcon cIcon_newTopics">
+    </span>发起新话题</a><i class="topic_txt1">|</i><a href="/company/companyTopics.shtml"><span
+        class="cIcon cIcon_viewTopics"></span>查看全部话题</a>
+</div>
+
+                </div>
+
+
+            </div>
+            <!-- * 右侧内容 * -->
+            <div class="cRight r">
+                <div class="cRightCompanyInfo cRightTab">
+                    <div class="cCompanyInfoConWrap clearfix">
+                        <a target="_blank" href="/Company/CC000116133" class="cRightCompanyInfoLogoWrap">
+                            <img src="//cimg.zhaopin.cn/img/logo/logo_l.jpg" />
+                        </a>
+                        <div class="cCompanyInfoCon r">
+                            <a target="_blank" href="/Company/CC000116133" class="cCompanyName" title="秋季双选会">秋季双选会</a>
+                            <div class="cCompanyAttentionNum">
+                                1296人关注
+                            </div>
+                            <a idx="CC000116133" class="mt5 cAttention unAtion">
+                                    <span class="unAttention j_unAttention"><b>+</b>关注</span>
+                                    <span class="j_Attention dn pad3 c999"><b>√</b>已关注</span>
+                                    <span class="j_qAttention dn pad3 c999">取消关注</span>
+                            </a>
+                        </div>
+                    </div>
+                        <a target="_blank" href="/company/CC000116133#companyJob" class="cCompanyOtherJob">
+                            查看该企业的其他职位
+                        </a>
+                </div>
+                
+                
+                <div class="cRightTab mt20">
+    <h4>
+        公司地址
+        <span class="c9">(暂无)</span>
+    </h4>
+    <div class="clearfix p20">
+            <div class="cRightCompanyEmptyBg">
+                <p class="cAddressEmpty">目前已知的是他来自星星……</p>
+            </div>
+
+    </div>
+</div>
+
+                
+            </div>
+        </div>
+    </div>
+</div>
+<input type="hidden" name="rguid" value="0" />
+<input type="hidden" name="scenario" value="0" />
+<!--职位页所需要ajax模板-->
+<div style="display: none;" class="j_ajaxTemplate">
+    <!-- * loading * -->
+    <div class="j_tabSwitch_loading">
+        <div class="tac" style="padding-top: 120px;">
+            <img class="vam mr5" src="//cimg.zhaopin.cn/img/loading/loading.gif" width="16"
+                 height="16" alt="loading" /><span class="dib vam f14">努力中...</span>
+        </div>
+    </div>
+    <!-- * 投递情况 * -->
+    <div class="j_cDelivery_state">
+        <div class="j_cDeliveryState">
+            <div class="cDelivery_state">
+                <div class="clearfix cDelivery_stateTitle">
+                    <div class="l">
+                        <b class="dib">职位接收简历情况</b> <b>企业处理情况</b>
+                    </div>
+                    <div class="r">
+                        <span class="c9 vam mr15 j_cDelivery_state_page">${currentPage}$/${page}$</span>
+                        <span class="j_cDeliveryStatePageBtn">
+                            <a class="cIcon cIcon_btnBlue_left j_cDeliveryStatePage_left mr3">
+                            </a><a class="cIcon cIcon_btnBlue_right j_cDeliveryStatePage_right"></a>
+                        </span>
+                    </div>
+                </div>
+                <div class="cDelivery_stateList">
+                    <ul class="j_cDelivery_stateList">
+                        <li>
+                            <span class="cDelivery_stateMsg dib">${time}$&nbsp;&nbsp;&nbsp;&nbsp;收到了简历</span>
+                            <span>${state}$</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- * 公司介绍 * -->
+    <div class="j_cJobDetail_companyIntro">
+        <div class="cJobDetail_companyIntro f12 c9">
+            ${intro}$
+        </div>
+    </div>
+    <div class="j_cJobDetail_companyIntro_forAll_wrap">
+        <p class="tar">
+            <span class="dib"><font class="c9 cp j_cJobDetail_companyIntro_forAll">展开<i class="ml3 cIcon cIcon_DownBtn"></i></font></span>
+        </p>
+    </div>
+    <div class="j_cJobDetail_companyIntro_forPart_wrap">
+        <p class="tar">
+            <span class="dib"><font class="c9 cp j_cJobDetail_companyIntro_forPart">收起<i class="ml3 cIcon cIcon_UpBtn"></i></font></span>
+        </p>
+    </div>
+    <!-- * 公司视频 * -->
+    <div class="j_cJobDetail_companyVideo">
+        <div class="cJobDetail_companyVideo">
+            <p class="f12 c9">
+                <span class="videoPre">
+                    <img width="126" height="78" orignsrc="${videoPre}$" style="float: left; margin-right: 10px;" />
+                    ${videoIntro}$
+                </span><span class="videoSrc" style="display: none;">
+                    ${videoSrc}$ <a href="javascript:void(0)" class="dib vab c3 ml10">收起</a>
+                </span>
+            </p>
+        </div>
+    </div>
+    <!-- * 公司图片 * -->
+    <div class="j_cJobDetail_companyImg">
+        <div class="cJobDetail_companyImg">
+            <ul class="clearfix j_cJobDetail_companyImg_list">
+                <li>
+                    <a class="j_companyImgBtn" href="javascript:void(0)">
+                        <img value="0" data-url="${imgBigSrc}$" orignsrc="${imgSrc}$" title="${imgTitle}$"
+                             alt="${imgArt}$">
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+        </div>
+        <script type="text/javascript">
+            $(function () {
+                var cdc_currentChild,
+                cdc_currentSub = "f_7_0";
+                
+    cdc_currentChild = 'f_1';
+
+                var curobj = $("#" + cdc_currentChild),
+                    cursub = $("#" + cdc_currentSub);
+                //var tmp = String("False").toLowerCase() == "true" ? true : false;
+                if (curobj.length > 0) {
+                    curobj.siblings('li').removeClass('hover').children("a").removeClass("hover");
+                    curobj.addClass("hover").children('a').addClass('hover');
+                }
+                if (cursub.length > 0) {
+                    cursub.addClass('current').siblings().removeClass('current')
+                }
+
+
+                //头部菜单
+                $(".hasMenu").hover(function () {
+                    $(this).addClass("cur");
+                    $(this).find(".cIcon").removeClass("cIcon_DownArrowIndex").addClass("cIcon_UpArrowIndex")
+                    $(this).find(".subMenu").show();
+                }, function () {
+                    $(this).removeClass("cur");
+                    $(this).find(".cIcon").removeClass("cIcon_UpArrowIndex").addClass("cIcon_DownArrowIndex")
+                    $(this).find(".subMenu").hide();
+                });
+
+                //收藏按钮
+                $(".collectBtn").click(function () {
+                    alert("请按Ctrl/Cmd+D收藏本站，好工作不用愁！")
+                });
+            });
+            $(function () {
+                $("#hreftopreg").click(function () {
+                    try {
+                        window.zhuge.track("RegEnter", { 'enter': 'top', 'locaUrl': window.location.href });
+                    } catch (e) {
+                    }
+                });
+                $("#hrefWinReg").click(function () {
+                    try {
+                        window.zhuge.track("RegEnter", { 'enter': 'NewWin', 'locaUrl': window.location.href });
+                    } catch (e) {
+                    }
+                });
+                $(".navBox li").click(function () {
+                    try {
+                        window.zhuge.track('MainNavBar', {
+                            localUrl: window.location.href,
+                            pagemenuclick: $.trim($(this).text())
+                        });
+                    } catch (e) {
+                    }
+                });
+            });
+        </script>
+        <div class="cFooter">
+            <p>
+                <a target="_blank" rel="nofollow" href="//special.zhaopin.com/sh/2009/aboutus/about.html">智联介绍</a>|
+                <a target="_blank" rel="nofollow" href="//special.zhaopin.com/sh/2009/aboutus/join.html">加入智联</a>|
+                <a target="_blank" rel="nofollow" href="//special.zhaopin.com/sh/2009/aboutus/law.html">法律声明</a>|
+                <a target="_blank" rel="nofollow" href="//special.zhaopin.com/sh/2009/aboutus/secrecy.html">隐私政策</a>|
+                <a target="_blank" rel="nofollow" href="//special.zhaopin.com/sh/2009/aboutus/contact.html">联系方式</a>|
+                <a target="_blank" rel="nofollow" href="//jobseeker.zhaopin.com/zhaopin/faq/question.html">意见反馈</a>|
+                <a target="_blank" rel="nofollow" href="//ir.zhaopin.com">Investor Relations</a>
+            </p>
+            <p class="c9">
+                未经 Zhaopin.com 同意，不得转载本网站之所有招聘信息及作品 智联招聘网版权所有© 1997-2017<br />京ICP备12025925号 电信业务审批[2001]字第233号函 京公网安备 11010502002133号
+            </p>
+        </div>
+        <!-- * End footer * -->
+    </div>
+    <!-- * 右侧回到顶部和帮助按钮 * -->
+    <!--#include virtual="/common/goTopAndHelp.shtml" -->
+    <ul class="posFIxRightArea" id="posFIxRightArea">
+    
+    <li class="first"><a href="/Help/Index" title="反馈" target="_blank" class="cIcon cIcon_rightHelp cp"></a><div onclick="window.open('/Help/Index')">反馈</div></li>
+     
+	<li class="last"><a href="javascript:void(0);" class="cIcon cIcon_gotoTop cp" title="回到顶部" onclick="alert(0)"></a><div>顶部</div></li>
+</ul>
+    <!-- * 弹出覆盖层 * -->
+    <!--#include virtual="/pop/popCover.shtml" -->
+    <!-- * 弹出覆盖层框 * -->
+    <div class="cPop_cover" id="cPop_cover" style="display: none;">
+    </div>
+    <!-- * ie6弹出覆盖层框 * -->
+    <!--[if lte IE 6]>
+    <iframe class="cPop_coverIframe" name="cPop_coverIframe" id="cPop_coverIframe" frameborder="0" scrolling="no" style="display:none"></iframe>
+    <![endif]-->
+    <!-- * 弹出框loading效果 * -->
+    <img class="cPop_loading" src="//cimg.zhaopin.cn/img/loading/loading8.gif" alt="loading" style="display:none" />
+    <!-- * 大图浏览 * -->
+    <!-- * 大图浏览模板 * -->
+<div class="cPop_imgList_wrap j_cPopWrap j_cPop_imgList" style="display:none;">
+	<div class="cPop_imgList">
+		<div class="cPop_imgList_title"><a class="cIcon cIcon_btnDelete j_popClosed" href="javascript:void(0)"></a></div>
+		<div class="cPop_imgList_cont">
+			<div class="j_cPop_imgListBig"></div>
+			<div class="cPop_imgList_artWrap">
+				<div class="cPop_imgList_artBg"></div>
+				<div class="cPop_imgList_art"><p class="j_cPop_imgList_art"></p></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="cPop_imgListBtn_wrap clearfix j_cPopImgListBtn" style="display:none">
+	<a class="cIcon cIcon_ArrowBtnBigLeft j_cPop_imgListBtnLeft cp l"></a>
+	<a class="cIcon cIcon_ArrowBtnBigRight j_cPop_imgListBtnRight cp r"></a>
+</div>
+
+    
+<!--登录弹层内容开始-->
+<input type="hidden" value="" name="backurl" id="backurl" />
+<!--登陆-->
+<div id="newWin" class="ln_mainWrap j_popLogin nL_main" style="display: none">
+    <h4 class="ln_title">
+        <a href="javascript:void(0);" class="ln_mainImages ln_closeBtn j_ln_closeBtn"></a>登录</h4>
+    <ul class="ln_tabWrap clearfix j_ln_tabWrap">
+        
+        
+    </ul>
+    <div class="j_switchLn_user j_switch">
+        <!-- 个人登录 -->
+        <div class="clearfix">
+            <div class="ln_mainLeftWrap">
+                <form name="loginform" id="loginform">
+                    <div class="clearfix ln_inputList">
+                        <label>
+                            登&nbsp;&nbsp;录&nbsp;&nbsp;名</label>
+                        <div class="ln_inputWrap">
+                            <input id="loginname" class="inputStyle" placeholder="输入手机号/邮箱" type="text" />
+                            <p id="loginname_warn" class="nL_validate_tips nL_validate_tips_b">
+                            </p>
+                        </div>
+                    </div>
+                    <div class="clearfix ln_inputList">
+                        <label>密&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;码</label>
+                        <div class="ln_inputWrap">
+                            <input id="password" class="inputStyle j_userpwd" type="password" passplaceholder="输入密码" value="" />
+                            <p id="password_warn" class="nL_validate_tips nL_validate_tips_b">
+                            </p>
+                        </div>
+                    </div>
+                    <div id="vcodeContainer" class="clearfix ln_inputList" style="display: none;">
+                        <label>验&nbsp;&nbsp;证&nbsp;&nbsp;码</label>
+                        
+                        <div class="ln_inputWrap">
+                            <input name="vcode" id="vcode" type="text" maxlength="5" class="inputStyle" style="width:142px;" value="" placeholder="验证码" />
+                            <a title="刷新验证码" href="javascript:void(0)" id="avimg" style="border:none;width:auto;height:auto; padding-top:1px; margin-right:5px; border-radius:0;" class="nL_vcode valign">
+                                <img id="vimg" style="height:32px;" src="">
+                            </a>
+                            <a id="avtxt" href="javascript:void(0)" class="nL_warn valign gray6">换一张</a>
+                            <span id="vcode_warn" class="nL_validate_tips nL_validate_tips_b" style="position:relative;left:0px;top:0px;"></span>
+                        </div>
+                    </div>
+                    <div class="ln_autoLoginWrap">
+                        <input name="isautologin" id="isautologin" value="1" checked="checked" type="checkbox" class="inputCheckBox j_autologin" />下次自动登录 <a target="_blank" href="https://passport.zhaopin.com/findpassword/email/step1">忘记密码？</a>
+                    </div>
+                    <div class="ln_submitBtnWrap">
+                        <input type="button" id="login" class="ln_submitBtn ln_mainImages j_lnSubmitBtn" value="" />
+                    </div>
+                </form>
+            </div>
+            <div class="ln_mainRightWrap">
+                <span class="ln_noUser">没有账号？<a href="/LoginManager/register2016" target="_blank" class="loginforreg" id="hrefWinReg">立即注册</a></span>
+                <div class="ln_otherRegisterTit">使用其它方式登录：</div>
+                <ul class="ln_otherRegisterTitWrap clearfix">
+                    
+                    <li><a href="#" class="ln_QQ tencent ln_mainImages"></a></li>
+                    <li><a href="#" class="ln_sina sina ln_mainImages"></a></li>
+                    
+                </ul>
+            </div>
+        </div>
+        <!-- 企业登录 -->
+        
+    </div>
+</div>
+<!--注册-->
+<div id="newWin2" class="ln_mainWrap j_popRegister nL_main" style="display: none">
+    <h4 class="ln_title">
+        <a href="javascript:void(0);" class="ln_mainImages ln_closeBtn j_ln_closeBtn"></a>注册</h4>
+    <ul class="ln_tabWrap clearfix j_ln_tabRegisterWrap">
+       
+        
+    </ul>
+    <div class="j_switchLn_Register j_switch">
+        <!-- 个人注册 -->
+        <div class="clearfix">
+            <div class="ln_mainLeftWrap">
+                <form name="registerform">
+                <div class="clearfix ln_inputList">
+                    <label>
+                        真实姓名</label>
+                    <div class="ln_inputWrap">
+                        <input name="realname" id="realname" class="inputStyle" placeholder="姓名(必填)" type="text" />
+                        <span id="realname_warn" class="nL_validate_tips nL_validate_tips_b"></span>
+                    </div>
+                </div>
+                <div class="clearfix ln_inputList">
+                    <label>
+                        注册邮箱</label>
+                    <div class="ln_inputWrap">
+                        <input name="email" id="email" class="inputStyle" placeholder="请输入常用邮箱" type="text" />
+                        <span id="email_warn" class="nL_validate_tips nL_validate_tips_b"></span>
+                    </div>
+                </div>
+                <div class="clearfix ln_inputList">
+                    <label>
+                        密&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;码</label>
+                    <div class="ln_inputWrap">
+                        <input name="password1" id="password1" class="inputStyle" type="password" passplaceholder="输入密码" value="" />
+                        <span id="password1_warn" class="nL_validate_tips nL_validate_tips_b"></span>
+                    </div>
+                </div>
+                <div class="ln_autoLoginWrap">
+                    <input id="accept" name="accept" type="checkbox" class="inputCheckBox" checked="checked" />我接受智联招聘的<a href="http://my.zhaopin.com/loginmgr/regist.asp" target="_blank">用户协议</a>和 <a href="http://jobseeker.zhaopin.com/zhaopin/aboutus/secrecy.html" target="_blank">
+                        隐私政策</a>
+                </div>
+                <div class="ln_submitBtnWrap">
+                    <input type="button" class="btn-normal btn btn-success_new" id="devRegister" value="立即注册" />
+                </div>
+                </form>
+            </div>
+            <div class="ln_mainRightWrap">
+                <span class="ln_noUser">已有账号？<a href="javascript:void(0);" class="regforlogin j_gotoLoginPerson" id="regforlogin">直接登录</a></span>
+                <div class="ln_otherRegisterTit">
+                    使用其它方式登录：</div>
+                <ul class="ln_otherRegisterTitWrap clearfix">
+                    
+                    <li><a href="#" class="ln_QQ tencent ln_mainImages"></a></li>
+                    <li><a href="#" class="ln_sina sina ln_mainImages"></a></li>
+                    
+                </ul>
+            </div>
+        </div>
+        <!-- 企业登录 -->
+        
+    </div>
+</div>
+
+<!--登录弹层内容结束-->
+<!--注册弹层内容开始-->
+
+<!--注册弹层内容结束-->
+<!--绑定其它账号开始-->
+<div id="otherbind" class="nL_main nL_main_size2" style="display: none;" >
+	<p class="nL_p gray"><span id="username" class="c_369 marginR8 font14"></span></p>
+	<h4 class="nL_nav pl80"><label for="">请绑定CDC帐号：</label><input type="radio" name="boundNum" checked="checked" value="0"/>注册新账号<input name="boundNum" type="radio" value="1" />使用已有帐号</h4>
+	<form id="bindform" action="">
+        <ul class="nL_formbox paddingtb90 block">
+            <li><label for="" class="nL_listName">真实姓名</label><input type="text" name="bindname" id="bindname" class="nL_text nL_textSize250" placeholder="姓名(必填)"  value="" /><span id="bindname_warn" class="nL_validate_tips nL_validate_tips_b"></span></li>
+            <li><label for="" class="nL_listName">注册邮箱</label><input type="text" id="name" class="nL_text nL_textSize250" placeholder="输入注册邮箱"  value="" /><span id="name_warn" class="nL_validate_tips nL_validate_tips_b"></span></li>
+            
+            <li><label for="" class="nL_listName">密&nbsp;&nbsp;&nbsp;&nbsp;码</label><input type="password" id="pwd" class="nL_text nL_textSize250" passplaceholder="输入密码" value="" /><span id="pwd_warn" class="nL_validate_tips nL_validate_tips_b"></span></li>
+            		
+            <li><span class="nL_listName">&nbsp;&nbsp;&nbsp;&nbsp;</span><label class="cblox" for="login_checked"><input id="login_checked" type="checkbox" checked="checked" class="nL_checkbox"/>关注CDC微博帐号，接收最新的招聘信息</label></li>
+            <li style="margin-top:0;"><span class="nL_listName">&nbsp;&nbsp;&nbsp;&nbsp;</span><input type="button" id="other_submit" class="btn btn-normal btn-success_new" value="注册并绑定" /><a name="bindcancel" href="###" class="marginL20 gray">取消</a></li>
+        </ul>
+        <ul class="nL_formbox paddingtb90 none">
+            <li><label for="" class="nL_listName">登陆邮箱</label><input type="text" id="login_name" class="nL_text nL_textSize250" placeholder="输入登录邮箱"  value="" /><span id="login_name_warn" class="nL_validate_tips nL_validate_tips_b"></span></li>
+            
+            <li><label for="" class="nL_listName">密&nbsp;&nbsp;&nbsp;&nbsp;码</label><input type="password" id="login_pwd" class="nL_text nL_textSize250" passplaceholder="输入密码" value="" /><span id="login_pwd_warn" class="nL_validate_tips nL_validate_tips_b"></span></li>	
+            <li style="display: none;"><span class="nL_listName">&nbsp;&nbsp;&nbsp;&nbsp;</span><input name="bindvcode" id="bindvcode" type="text" maxlength="5" class="nL_text nL_textSize84 valign" value="" placeholder="验证码" /> <a title="刷新验证码" href="javascript:void(0)" onclick="document.getElementById('bindvimage').src = 'http://passport.zhaopin.com/checkcode/img?t=' + Date.parse(new Date());" class="nL_vcode valign">
+                                                                                                                                                                                                        <img id="bindvimage" src="" width="80" height="25">
+                                                                                                                                                                                                         </a> <a href="###" href="javascript:void(0)" onclick="document.getElementById('bindvimage').src = 'http://passport.zhaopin.com/checkcode/img?t=' + Date.parse(new Date());" class="nL_warn valign gray6">换一张</a><span id="bind_vcode_warn" class="nL_validate_tips nL_validate_tips_b"></span></li>	
+            <li><span class="nL_listName">&nbsp;&nbsp;&nbsp;&nbsp;</span><label class="cblox" for=""><input id="reg_checked" type="checkbox" class="nL_checkbox" checked="checked"/>关注CDC微博帐号，接收最新的招聘信息</label></li>
+           
+            <li style="margin-top:0;"><span class="nL_listName">&nbsp;&nbsp;&nbsp;&nbsp;</span><input type="submit" id="loginother_submit" class="btn btn-normal btn-primary_new" value="登录并绑定" /><a name="bindcancel" href="###" class="marginL20 gray">取消</a></li>
+        </ul>
+	</form>
+	<div class="nL_close">X</div>		
+</div>	
+<!--绑定其它账号结束-->
+<!--已经绑定微博号开始-->
+<div id="vbbinded" class="nL_main nL_main_size2" style="display: none;">
+	<p class="nL_p gray"><span id="cur_name" class="c_369 marginR8 font14"></span></p>
+	<div class="font14 center" style="line-height:1.8em; margin:70px 0 40px 0;">
+		<p id="old_name">该帐号已经绑定过其他新浪微博帐号，<a href="#" target="_blank"></a></p>
+		<p>继续则会替换该帐号的绑定的关系，也可不绑定直接使用<a href="/">CDC</a>，</p>
+		<p>取消则重新输入其他帐号信息进行绑定！</p>
+	</div>
+	<div class="center" style="margin-bottom:30px;"><a href="###" id="keepon"  class="btn btn-normal btn-success_new" >继续</a><a id="cancel" href="###" class="marginL20 gray">取消</a></div>
+	<div class="nL_close">X</div>		
+</div>
+<!--已经绑定微博号结束-->
+<!--已经绑定CDC开始-->
+<div id="cdcbinded" class="nL_main nL_main_size2" style="display: none;">
+	<p class="nL_p gray"><span id="cdc_vbname" class="c_369 marginR8 font14"></span></p>
+	<div class="font14 center" style="line-height:1.8em; margin:70px 0 40px 0;">
+		<p>此帐号已经绑定过其他CDC帐号，继续会退出当前已经登录帐号：<a id="cdcname" href="###"></a></p>
+	</div>
+	<div class="center" style="margin-bottom:30px;"><a href="###" id="cdc_goon" class="btn btn-normal btn-success_new" >继续</a><a href="###" id="cdc_cancel" class="marginL20 gray">取消</a></div>
+	<div class="nL_close">X</div>		
+</div>
+<!--已经绑定CDC结束-->
+<!--邮箱激活开始-->
+<div id="emailValid" class="nL_main nL_main_size2" style="display: none;">
+    <p class="nL_p gray"><span id="val_name" class="c_369 marginR8 font14"></span></p>
+    <div class="nL_activateMail">
+        <div class="fl"><span class="icon_mail"></span></div>
+        <div class="fl marginL20" style="width:405px;">
+            <p class="weight lineH22">为了使你能正常收到企业笔试、面试等通知，强烈建议你先验证你的邮箱、激活帐号，再进行一下步操作！</p>
+            <div class="marginT20 lineH30">
+                <span class="fr"><a id="mail_active" target="_blank" href="###" class="btn btn-normal btn-success_new">前往激活邮箱</a></span>
+                <span class=" weight">您的注册邮箱是</span>
+                <span class=""><a href="###" target="_blank" id="email_name" class="c_green" style="font-family:Arial;"></a></span>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <p class="paddingLR20 lineH22">没有收到激活邮件？查看一下垃圾邮件组有没有？如果没有，可以让我们给你<span id="resendmailSpan"> <a href="javascript:void(0);" id="resendmail"  class="c_green">重新发送激活邮件</a></span><a id="emailSendTip" class="gray" style="display: none;">已发送，60秒后可重发!</a>。如果邮箱填写错误，那就只有<a href="/LoginManager/register?recreate=1" class="c_green">重新注册</a>一次了。</p>
+    <div class="nL_close">X</div>	
+</div>	
+<!--邮箱激活结束-->
+<div id="edu_mainwrap" class="ebpop_mainwrap" style="display: none;">
+    <div  class="ebpop_contentwrap 1clearfix">
+        <div class="ebpop_conleft marginT70 dp-inline fl">
+            <h3 class="eb_lefttoptit gray6">
+                <i class="eb_lefttopuserimg con_explain">uerimg</i>
+                <b id="edu_user_name" class="marginL20 font14 weight">刘佳佳</b>，首先你需要告诉企业你来自哪里！
+            </h3>
+            <div class="ebpop_formwrap marginT50">
+                <div class="marginB25 relative" style="z-index: 10">
+                    <span>学校</span><b class="asterisk">*</b><input type="text" id="schoolTxt" class="input_textbor eb_inputsize gray" value="" placeholder="学校名称"/><input type="hidden" value="9999" name="school_id" id="school_id" /><b class="school_warn" style="display: none;"></b>
+                </div>
+                <div class="marginB25 relative" style="z-index: 9">
+                    <span>学历</span><b class="asterisk">*</b>
+                    <div id="education_box3" class="eb_inputSelect eb_inputSelectwidth2 input_textbor marginR8" tabindex=1>
+                        <div class="eb_inputSelectbtn"></div>
+                        <select id="edubackground">
+                            <option value="0">选择你的最高学历</option>
+                            <option value="1">博士研究生</option>
+                            <option value="2">MBA</option>
+                            <option value="3">硕士研究生</option>
+                            <option value="4">大学本科</option>
+                            <option value="5">大学专科</option>
+                            <option value="6">中专/技校/职高</option>
+                            <option value="7">高中</option>
+                            <option value="8">其他</option>
+                        </select>
+                    </div>
+                    <b class="eduback_warn" style="display:none"></b>
+                </div>
+                <div class="marginB25 relative" style="z-index: 8">
+                    <span>专业</span><b class="asterisk">*</b><input type="text" id="autoTxt" class="input_textbor eb_inputsize2 gray" value="" placeholder="输入专业"/><input type="button" class="btn btn-normal67 btn-visited marginL10 " id="zhuanye" value="选择专业" />
+                <div class="loading" style="display:none;"></div>
+                <input type="hidden" value="" name="major_type" id="major_type">
+				<input type="hidden" value="9999" name="major_type_id" id="major_type_id">
+                <input type="hidden" value="9999" name="major_id" id="major_id">
+                <b class="major_warn" style="display: none;"></b>
+                </div>
+                <div class="marginB30 relative" style="z-index: 7">
+                    <span>毕业时间</span><b class="asterisk">*</b>
+                    <div id="education_box1" class="eb_inputSelect eb_inputSelectwidth input_textbor marginR8" tabindex=1>
+                        <div class="eb_inputSelectbtn"></div>
+                    <select id="eduYear">
+                            <option value="">年份</option>
+                        <option value="2013">2013</option>
+                        <option value="2014" selected="selected">2014</option>
+                        <option value="2015">2015</option>
+                        <option value="2016">2016</option>
+                        <option value="2017">2017</option>
+                        <option value="2018">2018</option>
+                        </select>
+                    </div>
+                    <div id="education_box2" class="eb_inputSelect eb_inputSelectwidth input_textbor" tabindex=1>
+                        <div class="eb_inputSelectbtn"></div>
+                        <select id="eduMonth">
+                            <option value="">月份</option>
+                            <option value="6" selected="selected">6月</option>
+                            <option value="3">3月</option>
+                            <option value="12">12月</option>
+                            <option value="1">1月</option>
+                            <option value="2">2月</option>
+                            <option value="4">4月</option>
+                            <option value="5">5月</option>
+                            <option value="7">7月</option>
+                            <option value="8">8月</option>
+                            <option value="9">9月</option>
+                            <option value="10">10月</option>
+                            <option value="11">11月</option>
+                        </select>
+                    </div>
+                    <b class="edutime_warn" style="display:none"></b>
+                </div>
+                <div class="relative" style="z-index: 5">
+					<input id="submit" type="submit" class="eb_submit btn-normal115 btn btn-success beingAnalysis" StatisticsType='CompletedInfoDialog' StatisticsGroup="UserRegister" style="display: none;" value="好工作来咯！" />
+                <input id="unsubmit" type="submit" class="eb_submit btn-normal115 btn btn-unclick" value="好工作来咯！" /> <div class="btnloading" style="display:none"></div>
+                </div>
+            </div>
+        </div>
+        <div class="ebpop_coright fl">
+            <div class="ebpop_rightcon gray6">
+                <div class="1clearfix marginB20">
+                    <span class="block fl">1.</span>
+                    <p class="fl">可以让你获得潜在的职业机会。</p>
+                </div>
+                <div class="1clearfix marginB20">
+                    <span class="block fl">2.</span>
+                    <p class="fl">企业对于毕业生都是通过教育背景和专业来主动寻找求职者。</p>
+                </div>
+                <div class="1clearfix">
+                    <span class="block fl">3.</span>
+                    <p class="fl">此信息会同步至简历，不会重复填写。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<link href="/Content/css/education.css" rel="stylesheet" />
+<link href="/Content/css/jquery.zlzp.selectbox.css" rel="stylesheet"/>
+<style type="text/css">
+    html , body{font-family: Arial, "宋体";}
+</style>
+<script type="text/javascript" src="/Content/js/jquery.select-1.3.5.js"></script>
+<script type="text/javascript" src="/Content/js/pinyin.auto.js"></script>
+<script type="text/javascript" src="/Content/js/jquery.autoComplete.js"></script>
+<script type="text/javascript" src="/Content/js/Home/SchoolAndCity.js"></script>
+<script type="text/javascript" src="//cimg.zhaopin.cn/js/data/new/school.js"></script>
+<script type="text/javascript" src="//cimg.zhaopin.cn/js/base/InfoFeild_BaseData.js"></script>
+<script type="text/javascript" src="/Content/js/jquery.zlzp.selectbox.js"></script>
+<script type="text/javascript" src="/Content/js/cdc_education.js?v=1.0"></script>
+ 
+<script type="text/javascript">
+    function eduLayerPage() {
+        $("#edu_user_name").html("lol");
+        $.popupBase.init({ div: $("#edu_mainwrap"), posx: "center", posy: "center", maskClose: false });
+    }
+</script>
+
+<link href="/Content/css/newLogin.css" rel="stylesheet" />
+<link href="//cimg.zhaopin.cn/css/login_new.css" rel="stylesheet"/>
+<style type="text/css">
+  .tip-x-validate-valid{ background-position:0 -17px;display: inline-block;*display: inline;*zoom: 1;margin-left: 12px;}
+  .tip-x-validate-error{ display: block;}
+ </style>
+<script language="javascript" type="text/javascript" src="//img01.zhaopin.cn/2012/js/jquery.zlzp.validate.js"></script>
+<script type="text/javascript" src="/Content/js/jquery.popupbase.js"></script>
+<script type="text/javascript" src="/Content/js/weibologin.js?v=1.0"></script>
+<script type="text/javascript" src="/Content/js/cnt.js"></script>
+<script type="text/javascript" src="/Content/js/special.cnt.js"></script>
+<script language="javascript" type="text/javascript" src="/Content/js/loginManager/loginhelper.js"></script>
+<script language="javascript" type="text/javascript" src="/Content/js/loginManager/loginhelper2016.js?2016-4-15"></script>
+<script language="javascript" type="text/javascript" src="/Content/js/loginManager/login.js?2016-8-17"></script>
+<script language="javascript" type="text/javascript" src="/Content/js/loginManager/blogin.js"></script>
+<script type="text/javascript">
+    function selectIndex(ind) {
+        var el = this;
+        el.find('ul li').eq(ind).addClass("active").siblings().removeClass('active');
+        el.find('.j_switch > div').eq(ind).show().siblings().hide();
+    }
+    function OpenLoginOrRegister(backurl) {
+        if (backurl != null) {
+            $("#backurl").val(backurl);
+        }
+        else {
+            backurl = GetCookie("cdcbackurl");
+            if (backurl == null || backurl == "") {
+                SetCookie("cdcbackurl", document.URL);
+            }
+        }
+        //读取验证码
+        $("#vimg").attr("src", "//xiaoyuan.zhaopin.com/LoginManager/GetValidateCode?r=" + Math.random());
+        var popdiv = $("#newWin");
+        wbLogin.param.popLayer = 0;
+        if(arguments[1]) {
+            popdiv = $("#newWin2");
+            wbLogin.param.popLayer = 2;
+        }
+        selectIndex.call(popdiv, 0);
+        $.popupBase.init({ div: popdiv, posx: "center", posy: "center", maskClose: false });
+        wbLogin.Common.EnterEvent(function () {
+            $("#login").click();
+        });
+        return false;
+    }
+    
+    function IsActivied(fn,ele) {
+        $.ajax({
+            url: "/PublicModule/EmailActived?t=" + (new Date()).getTime(),
+            dataType: 'json',
+            async: false, //同步
+            success: function (data) {
+                if (!data.status) {
+                    wbLogin.Doms.init();
+                    $.popupBase.close(wbLogin.param.popLayer ? wbLogin.Doms.Register : wbLogin.Doms.Login);
+                    wbLogin.Events.mailAlert(null, data.email);
+                    return;
+                }
+                if (typeof fn === "function")
+                    fn.call(ele ? ele : null, null);
+            }
+        });
+    }
+
+    function reset() {
+        wbLogin.Events.popReset();
+    }
+    $(function () {
+        wbLogin.param.popBase = true;
+        wbLogin.Doms.init();
+        wbLogin.Events.init();
+        $(".nL_close,.j_ln_closeBtn").click(function () {
+            DelCookie("cdcbackurl");
+            wbLogin.Events.InputClean(); ///
+            $.popupBase.close($(this).closest(".nL_main"));
+        });
+        $("a[name='bindcancel']").click(function () {
+            $.popupBase.close($("#otherbind"));
+            OpenLoginOrRegister();
+            return false;
+        });
+        $("#accept").click(function () {
+            $("#devRegister").removeClass(this.checked ? "btn-visited" : "btn-success_new").addClass(this.checked ? "btn-success_new" : "btn-visited");
+        });
+
+        $(".regforlogin").each(function (i) {
+            $(this).click(function () {
+                wbLogin.param.popLayer = 0;
+                $.popupBase.close($("#newWin2"));
+                selectIndex.call($("#newWin"), i);
+                $.popupBase.init({ div: $("#newWin"), posx: "center", posy: "center", maskClose: false });
+                return false;
+            });
+        });
+
+        //$(".loginforreg").each(function (i) {
+        //    $(this).click(function () {
+        //        wbLogin.param.popLayer = 2;
+        //        $.popupBase.close($("#newWin"));
+        //        selectIndex.call($("#newWin2"), i);
+        //        $.popupBase.init({ div: $("#newWin2"), posx: "center", posy: "center", maskClose: false });
+        //        return false;
+        //    });
+        //});
+
+        var pw = $("input[type='password']");
+        pw.each(function () {
+            passwordInputPlaceholder($(this), "输入密码");
+        });
+
+    });
+</script>
+
+
+    
+    <script type="text/javascript" src="/Content/js/sharedata.js"></script>
+    <script type="text/javascript" src="/Content/js/jquery.share.js"></script>
+    <script type="text/javascript">
+        $(".j_shareWB").share({
+            className: "xjh_shareShow1",
+            data: jsons,
+            focusChange: false,
+            shareUrl: window.location.href,
+            shareContent: function (ele) {
+                //「总公司名称」+正在招聘+「职位名称」，快来看看吧@智联招聘-智享校园+职位链接 (arguments[1] == 2 ? '@智联招聘-智享校园，' : '')
+                var str = '「' + $('#jobCompany').find('a:eq(0)').text() + '」正在招聘「' + $('#JobName').text() + '」，快来看看吧' + (arguments[1] == 2 ? '@智联招聘-智享校园，' : '');
+                return str;
+            }
+        });
+
+        
+        $(function () {
+            var jobId = "CC000116133J90003897000";
+            if (jobId.split("J")[0] == "CC000921731") {
+                $(".logo").hide();
+                $(".logofont").hide();
+            }
+        });
+    </script>
+
+    <script type="text/javascript" src="//cimg.zhaopin.cn/js/dev/mobilejump.js"></script>
+    <script type="text/javascript" src="/Content/js/analysis/cdcga.js"></script>
+    <script type="text/javascript" src="//xiaoyuan.zhaopin.com/Content/js/cdcCommon.js"></script>
+    
+    
+</body>
+</html>
+<!-- ajax模板 -->
